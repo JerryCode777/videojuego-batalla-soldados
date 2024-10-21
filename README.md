@@ -21,4 +21,4 @@ Este es un juego en Java en el que dos ejércitos de soldados compiten entre sí
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tuusuario/videojuego-batalla-soldados.git
+   git clone https://github.com/JerryCode777/videojuego-batalla-soldados
